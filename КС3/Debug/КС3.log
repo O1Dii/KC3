@@ -1,0 +1,4 @@
+﻿  server.cpp
+d:\учёба\проекты visual studio\кс3\кс3\server.cpp(10): warning C4101: j: неиспользованная локальная переменная
+d:\учёба\проекты visual studio\кс3\кс3\server.cpp(58): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  КС3.vcxproj -> D:\Учёба\проекты visual studio\КС3\Debug\КС3.exe

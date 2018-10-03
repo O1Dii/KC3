@@ -1,0 +1,4 @@
+﻿  client.cpp
+d:\учёба\проекты visual studio\кс3\кс3\client.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\учёба\проекты visual studio\кс3\кс3\client.cpp(32): warning C4102: end: неиспользованная метка
+  Client.vcxproj -> D:\Учёба\проекты visual studio\КС3\Debug\Client.exe
